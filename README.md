@@ -22,3 +22,11 @@ To analyze Cyclistic's historical bike trip data to identify trends in how casua
 * **Issue:** Encountered a **100MB local upload limit** in the BigQuery Sandbox for several monthly files (e.g., June and July).
 * **Solution:** To maintain a zero-cost infrastructure without a credit card, I used **Google Drive** as an external data source. 
 * **Action:** Hosted the large files on Drive and linked them to BigQuery as **External Tables**. This bypassed the upload limit and allowed for the analysis of the full 12-month dataset.
+
+### 🧹 Data Cleaning & Validation
+After consolidating the 12-month dataset, I performed quality checks to ensure data integrity.
+
+* **Initial Row Count:** Verified a total of **5,552,994** trips in the raw consolidated table (`master_data_2025`).
+* **Error Detection:** Identified 29 records where `ended_at` was earlier than or equal to `started_at` (negative or zero trip duration).
+* **Final Transformation:** Created a finalized table (`master_data_cleaned`) excluding these 29 records.
+* **Final Dataset Size:** **5,552,965** rows ready for analysis.
