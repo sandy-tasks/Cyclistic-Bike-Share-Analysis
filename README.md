@@ -35,5 +35,14 @@ After consolidating the 12-month dataset, I performed quality checks to ensure d
 
 * **Initial Row Count:** Verified a total of **5,552,994** trips in the raw consolidated table (`master_data_2025`).
 * **Error Detection:** Identified 29 records where `ended_at` was earlier than or equal to `started_at` (negative or zero trip duration).
+
+## 📊 4. Analyze
+
+In this phase, I am performing descriptive analysis to uncover how different user segments, category utilize the service.
+
+### Key Findings (So Far):
+* **Ride Duration:** Casual riders have a significantly higher average ride length compared to annual members, suggesting leisure-oriented usage versus
+    commuting patterns.
+* **Trip Distribution:** Currently analyzing the busiest days of the week to identify peak usage times for each segment.
 * **Final Transformation:** Created a finalized table (`master_data_cleaned`) excluding these 29 records.
 * **Final Dataset Size:** **5,552,965** rows ready for analysis.
