@@ -26,3 +26,4 @@ UNION ALL
 SELECT * FROM `cyclistic_trips.nov_2025_ext`
 UNION ALL
 SELECT * FROM `cyclistic_trips.dec_2025_ext`;
+ 
