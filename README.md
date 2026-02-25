@@ -1,11 +1,25 @@
+# 🚲 Cyclistic Bike-Share Analysis: Case Study
+**Course:** Google Data Analytics Professional Certificate (Capstone Project)
 /># Cyclistic-Bike-Share-Analysis
 Capstone project for the Google Data Analytics Professional Certificate.
+
+## 📖 Introduction
+This case study explores the usage patterns of "Cyclistic," a fictional bike-share program in Chicago. The goal is to understand how annual members and casual riders use Cyclistic bikes differently to help design a new marketing strategy to convert casual riders into annual members.
+
+## 🎯 1. Ask
+The marketing team needs to answer three primary questions:
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
+
+### **Business Task**
+Analyze the 2025 Cyclistic trip data to identify trends that will help develop a marketing strategy targeted at converting casual riders into long-term annual members.
 ## 🎯 Project Goal
 To analyze Cyclistic's historical bike trip data to identify trends in how casual riders and annual members use bikes differently. These insights will help design marketing strategies to convert casual riders into annual members.
 
-## 👥 Stakeholders
-* Lily Moreno, Director of Marketing
-* Cyclistic Executive Team
+### **Stakeholders**
+* **Lily Moreno:** Director of Marketing and your manager.
+* **Cyclistic Executive Team:** The detail-oriented team that will decide whether to approve the recommended marketing program.
 
 ## 2. Prepare
 *   To ensure a high-quality analysis, I evaluated the dataset using the **ROCCC** framework and verified its integrity for the 2025 period.
