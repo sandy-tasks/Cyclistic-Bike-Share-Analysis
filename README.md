@@ -43,6 +43,6 @@ In this phase, I am performing descriptive analysis to uncover how different use
 ### Key Findings (So Far):
 * **Ride Duration:** Casual riders have a significantly higher average ride length compared to annual members, suggesting leisure-oriented usage versus
     commuting patterns.
-* **Trip Distribution:** Currently analyzing the busiest days of the week to identify peak usage times for each segment.
+* **Trip Distribution:** Currently analyzing the busiest days of the week to identify peak usage times for each segment, category.
 * **Final Transformation:** Created a finalized table (`master_data_cleaned`) excluding these 29 records.
 * **Final Dataset Size:** **5,552,965** rows ready for analysis.
