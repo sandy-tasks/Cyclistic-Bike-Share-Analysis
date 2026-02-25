@@ -8,7 +8,7 @@ To analyze Cyclistic's historical bike trip data to identify trends in how casua
 * Cyclistic Executive Team
 
 ## 2. Prepare
-* **To ensure a high-quality analysis, I evaluated the dataset using the **ROCCC** framework and verified its integrity for the 2025 period.
+*   To ensure a high-quality analysis, I evaluated the dataset using the **ROCCC** framework and verified its integrity for the 2025 period.
 * **Data Source:** [Publicly available trip data](https://divvy-tripdata.s3.amazonaws.com/index.html) from Motivate International Inc.
 * **Data Quality (ROCCC):** The dataset is **Reliable**, **Original**, **Comprehensive**, **Current** (covering the full year of 2025)
 * **Period Covered:** January 2025 to December 2025.
