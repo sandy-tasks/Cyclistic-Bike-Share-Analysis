@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37445a01-c92e-411e-95c6-908aea0812cb" /># Cyclistic-Bike-Share-Analysis
+/># Cyclistic-Bike-Share-Analysis
 Capstone project for the Google Data Analytics Professional Certificate.
 ## 🎯 Project Goal
 To analyze Cyclistic's historical bike trip data to identify trends in how casual riders and annual members use bikes differently. These insights will help design marketing strategies to convert casual riders into annual members.
