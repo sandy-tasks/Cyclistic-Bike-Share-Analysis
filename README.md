@@ -69,6 +69,22 @@ In this phase, I am converting my SQL findings into visual dashboards to communi
 *   1. Comparison of Total Trips per Day (Member vs. Casual).
     2. Average Ride Duration per User Segment.
     3. [View Interactive Dashboard Here](https://public.tableau.com/views/CyclisticBike-ShareUserBehaviorAnalysis2025/CyclisticUserBehaviorAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ 
+## 🚀 6. Act: Data-Driven Recommendations
+
+Based on the behavioral trends identified in the analysis, I recommend the following three strategies to convert casual riders into annual members:
+
+* **Target Weekend "Leisure" Riders:** Since casual usage peaks significantly on **Saturdays (7.5%)** and **Sundays**, Cyclistic should launch a "Weekend-Only Membership" or a "Leisure Pass." This bridges the gap for users who don't commute during the week but are frequent weekend riders.
+
+* **Ride Duration Incentives:** The data shows casual riders maintain a much higher **Average Ride Length (~22 min)** compared to members (~12 min). We should offer membership discounts or "commuter credits" to users who consistently exceed 20 minutes per ride to encourage them to switch to a fixed-price annual plan.
+
+* **Mid-Week Digital Campaigns:** Annual members dominate the Tuesday-Thursday period for commuting. Cyclistic should focus digital ad spend on these days to target casual riders with "Save Time & Money" messaging, highlighting the efficiency of bike-sharing for the mid-week work commute.
+
+---
+### 🔗 Project Links
+* **Interactive Tableau Dashboard:** [https://public.tableau.com/views/CyclisticBike-ShareUserBehaviorAnalysis2025/CyclisticUserBehaviorAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+* **SQL Queries:** [Link to your SQL file in this repo]
+* **Data Source:** [Link to Divvy Trip Data]
 
 
 
