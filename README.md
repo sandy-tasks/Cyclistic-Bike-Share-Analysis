@@ -83,8 +83,8 @@ Based on the behavioral trends identified in the analysis, I recommend the follo
 ---
 ### 🔗 Project Links
 * **Interactive Tableau Dashboard:** [https://public.tableau.com/views/CyclisticBike-ShareUserBehaviorAnalysis2025/CyclisticUserBehaviorAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
-* **SQL Queries:** [Link to your SQL file in this repo]
-* **Data Source:** [Link to Divvy Trip Data]
+* **SQL Queries:** [https://github.com/sandy-tasks/Cyclistic-Bike-Share-Analysis/blob/main/scripts/07_summary_table_for_visualization.sql]
+* **Data Source:** Divvy Trip Data (Motivate International Inc.) [https://divvy-tripdata.s3.amazonaws.com/index.html]
 
 
 
