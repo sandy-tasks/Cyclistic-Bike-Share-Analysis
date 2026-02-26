@@ -60,5 +60,13 @@ In this phase, I performed descriptive analysis to uncover how usage patterns di
 * **The "Behaviour Gap":** The data confirms that members use the service as a functional utility for daily transport usage, while casual riders primarily utilize
     the  bikes for weekend pleasure activities.
 
+  ## 🎨 5. Share
+
+In this phase, I am converting my SQL findings into visual dashboards to communicate insights effectively to the Cyclistic executive team.
+
+* **Tool Selected:** [Tableau]
+* **Key Visuals:** 1. Comparison of Total Trips per Day (Member vs. Casual).
+    2. Average Ride Duration per User Segment.
+
 
 
