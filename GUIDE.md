@@ -71,4 +71,3 @@ The Reason: This proves your "Full-Stack" ability to a recruiter—showing you c
 🏆 Pro-Tip for Mastery Session
 Don't skip the cleaning! In this project, you will find thousands of "false starts" (rides under 60 seconds). If you don't remove those in Step 2, your averages in Step 4 will be wrong. Always respect the data cleaning phase!
 
-Would you like me to show you how to add a "Table of Contents" to this guide so users can click and jump to a specific step?
