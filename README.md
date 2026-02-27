@@ -1,6 +1,12 @@
 # 🚲 Cyclistic Bike-Share Analysis: Case Study
 **Course:** Google Data Analytics Professional Certificate (Capstone Project)
 
+## 🛠️ Data Analytics Stack
+* **Data Cleaning:** SQL (BigQuery/PostgreSQL) 
+* **Data Visualization:** Tableau Public
+* **Spreadsheets:** Google Sheets (Pivot Tables, VLOOKUP)
+* **Documentation:** GitHub Markdown
+
 ## 📖 Introduction
 This case study explores the usage patterns of "Cyclistic," a fictional bike-share program in Chicago. The goal is to understand how annual members and casual riders use Cyclistic bikes differently to help design a new marketing strategy to convert casual riders into annual members.
 
