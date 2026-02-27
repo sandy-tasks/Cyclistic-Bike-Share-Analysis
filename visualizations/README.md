@@ -8,6 +8,10 @@ The full interactive analysis, including weekday distributions and average ride 
 
 👉 **[View Interactive Dashboard Here](https://public.tableau.com/app/profile/sandy.epitaux/viz/CyclisticBike-ShareUserBehaviorAnalysis2025/CyclisticUserBehaviorAnalysis)**
 
+## 📈 Final Dashboard Preview
+
+<img width="1914" height="865" alt="Capture d’écran (6580)" src="https://github.com/user-attachments/assets/dd35d634-de47-4573-a470-5fe0741fbbca" />
+
 
 ## 📈 Key Findings
 
