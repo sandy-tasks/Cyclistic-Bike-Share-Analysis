@@ -12,7 +12,11 @@ To ensure data integrity, I performed the following steps:
 1. **Consolidation:** Merged 12 months of raw trip data into a single master table.
 2. **Cleaning:** Removed duplicate records and trips with a duration of less than 1 minute or greater than 24 hours.
 3. **Transformation:** Extracted `day_of_week` and `month` from timestamps and calculated `ride_length` in minutes.
-
+  
+## 📈 Final Dashboard Preview
+Image
+<img width="1914" height="865" alt="Capture d’écran (6580)" src="https://github.com/user-attachments/assets/dd35d634-de47-4573-a470-5fe0741fbbca" />
+To interact with the live dashboard
 [View SQL Analysis Script Here](https://github.com/sandy-tasks/Cyclistic-Bike-Share-Analysis/blob/main/scripts/07_summary_table_for_visualization.sql)
 
 
