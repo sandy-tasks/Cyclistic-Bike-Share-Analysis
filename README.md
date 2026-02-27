@@ -2,9 +2,9 @@
 **Course:** Google Data Analytics Professional Certificate (Capstone Project)
 
 ## 🛠️ Data Analytics Stack
-* **Data Cleaning:** SQL (BigQuery/PostgreSQL) 
-* **Data Visualization:** Tableau Public
-* **Spreadsheets:** Google Sheets (Pivot Tables, VLOOKUP)
+* **Data Cleaning:**  Performed in BigQuery (SQL) to merge 12 months of data and remove invalid rows
+* **Data Transformqtion:** Performed in BigQuery (SQL) to create ride_length and day_of_week columns.
+* **Data Visualization:**  Performed in Tableau Public
 * **Documentation:** GitHub Markdown
 
 ## 🧹 Data Processing Summary
@@ -100,7 +100,6 @@ Based on the behavioral trends identified in the analysis, I recommend the follo
 
 * **Mid-Week Digital Campaigns:** Annual members dominate the Tuesday-Thursday period for commuting. Cyclistic should focus digital ad spend on these days to target casual riders with "Save Time & Money" messaging, highlighting the efficiency of bike-sharing for the mid-week work commute.
 
----
 ### 🔗 Project Links
 * **Interactive Tableau Dashboard:** [https://public.tableau.com/views/CyclisticBike-ShareUserBehaviorAnalysis2025/CyclisticUserBehaviorAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 * **SQL Queries:** [https://github.com/sandy-tasks/Cyclistic-Bike-Share-Analysis/blob/main/scripts/07_summary_table_for_visualization.sql]
