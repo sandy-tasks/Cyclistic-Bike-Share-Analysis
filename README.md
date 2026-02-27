@@ -16,6 +16,7 @@ To ensure data integrity, I performed the following steps:
 ## 📈 Final Dashboard Preview
 Image
 <img width="1914" height="865" alt="Capture d’écran (6580)" src="https://github.com/user-attachments/assets/dd35d634-de47-4573-a470-5fe0741fbbca" />
+
 To interact with the live dashboard
 [View SQL Analysis Script Here](https://github.com/sandy-tasks/Cyclistic-Bike-Share-Analysis/blob/main/scripts/07_summary_table_for_visualization.sql)
 
